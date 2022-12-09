@@ -33,6 +33,7 @@ while True:#while loop so the whole code could be repeated
     print("To Quit type Y/N")
     x = input().upper()
     if x == "Y":
+        print("Thank you for Using sathi")
         break
     else:
         pass
